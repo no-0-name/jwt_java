@@ -16,11 +16,11 @@ This project is an example implementation of authentication using JWT (JSON Web 
 
 ## Project Setup
 
-### 1. Cloning the Repository
+#### 1. Cloning the Repository 
 
-### 2. Change file ```application.properties``` for connect your database
+#### 2. Change file ```application.properties``` for connect your database
 
-### 3. Run your App
+#### 3. Run your App
 
 
 ## Contributing
